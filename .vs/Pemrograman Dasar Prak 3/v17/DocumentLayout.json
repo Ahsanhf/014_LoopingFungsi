@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikum 19-03-24\\Pemrograman Dasar Prak 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{244B6848-1BAE-442A-9DB7-45ADF9E853B8}|Pemrograman Dasar Prak 3.vcxproj|D:\\Praktikum 19-03-24\\Pemrograman Dasar Prak 3\\Pemrograman Dasar Prak 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{244B6848-1BAE-442A-9DB7-45ADF9E853B8}|Pemrograman Dasar Prak 3.vcxproj|solutionrelative:Pemrograman Dasar Prak 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pemrograman Dasar Prak 3.cpp",
+              "DocumentMoniker": "D:\\Praktikum 19-03-24\\Pemrograman Dasar Prak 3\\Pemrograman Dasar Prak 3.cpp",
+              "RelativeDocumentMoniker": "Pemrograman Dasar Prak 3.cpp",
+              "ToolTip": "D:\\Praktikum 19-03-24\\Pemrograman Dasar Prak 3\\Pemrograman Dasar Prak 3.cpp*",
+              "RelativeToolTip": "Pemrograman Dasar Prak 3.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T10:17:17.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
